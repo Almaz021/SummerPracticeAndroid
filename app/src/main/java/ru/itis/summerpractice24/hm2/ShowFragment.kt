@@ -3,8 +3,6 @@ package ru.itis.summerpractice24.hm2
 import android.os.Bundle
 import android.view.View
 import androidx.fragment.app.Fragment
-import androidx.navigation.NavController
-import androidx.navigation.fragment.NavHostFragment
 import ru.itis.summerpractice24.R
 import ru.itis.summerpractice24.databinding.FragmentShowBinding
 
@@ -31,7 +29,7 @@ class ShowFragment : Fragment(R.layout.fragment_show) {
 
     companion object {
 
-        private const val ARG_MSG = "ARG_EMAIL"
+        const val ARG_MSG = "ARG_EMAIL"
 
         fun bundle(email: String): Bundle = Bundle().apply {
 

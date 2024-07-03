@@ -10,5 +10,8 @@
     <string name="show_screen">Show</string>
     <string name="send">Send</string>
     <string name="enter_text">Enter text</string>
+    <string name="description">Description</string>
+    <string name="carimage">carImage</string>
+    <string name="back">Back</string>
 
 </resources>
