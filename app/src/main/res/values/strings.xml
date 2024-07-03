@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">SummerPractice24</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_screen">Profile</string>
+    <string name="main_screen">Main</string>
+    <string name="login_screen">Login</string>
+    <string name="settings_screen">Settings</string>
+    <string name="store_screen">Store</string>
+    <string name="show_screen">Show</string>
+    <string name="send">Send</string>
+    <string name="enter_text">Enter text</string>
+    <string name="description">Description</string>
+    <string name="carimage">carImage</string>
+    <string name="back">Back</string>
+
 </resources>
